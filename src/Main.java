@@ -10,6 +10,6 @@ public class Main {
             System.out.println(finamount);
             System.out.println(bonus);
         }
-        
+
     }
 }
